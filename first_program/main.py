@@ -26,3 +26,6 @@ print(menus['lunch'])
 
 for name, menu in menus.items():
     print(name, ":", menu)
+
+
+#create a functoin to add two numbers
